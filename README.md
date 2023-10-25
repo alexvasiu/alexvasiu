@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexvasiu
-- 👀 I’m interested in distributed systems, data engineering and machine learning
+- 👀 I’m interested in distributed systems, data engineering, and machine learning
 - 🌱 I’m currently learning about new big data processing solutions
 - 💞️ I’m looking to collaborate on challenging projects (part-time only for now) 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alexandru-vasiu-32b889100/) or on [email](mailto:alexandru.avasiu@gmail.com)
